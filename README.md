@@ -1,3 +1,7 @@
+# Hi, I'm Nate 😀
+- 🖥️ **Languages**: C#, PHP, JavaScript, Go (learning)
+- ⛷️ **Hobbies**: I love to ski and game when I'm not working on a project.
+
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -11,13 +15,6 @@
  > 
 > 🔑 0 Private Repository 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
 
 
 <!--END_SECTION:waka-->
