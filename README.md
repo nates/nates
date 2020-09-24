@@ -14,7 +14,7 @@
  > 
 > 📜 5 Public Repositories
  > 
-> 🔑 0 Private Repository 
+> 🔑 1 Private Repository 
  > 
 
 <!--END_SECTION:waka-->
