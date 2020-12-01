@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 📦 15.6 kB Used in Github's Storage 
+> 📦 18.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 9 Public Repositories
  > 
 > 🔑 1 Private Repository 
  > 
