@@ -12,9 +12,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories
+> 📜 9 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+9 Private Repository 
  > 
 
 <!--END_SECTION:waka-->
