@@ -1,6 +1,6 @@
 # Hi, I'm Nate 😀
 - 🖥️ **Languages**: C#, JavaScript, Go
-- ⛷️ **Hobbies**: I love to ski and game when I'm not working on a project.
+- ⛷️ **Hobbies**: I love to ski and game.
 - ✉️ **Contact**: You can email me at nate@nate.gg or add me on Discord at nate#1853.
 
 <!--START_SECTION:waka-->
