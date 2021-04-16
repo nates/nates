@@ -8,13 +8,13 @@
 
 > 🏆 7 Contributions in the Year 2021
  > 
-> 📦 15.9 kB Used in Github's Storage 
+> 📦 17.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 
 <!--END_SECTION:waka-->
